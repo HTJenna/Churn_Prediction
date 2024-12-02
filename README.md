@@ -9,6 +9,6 @@ Below are some of the questions asked during the EDA.
 3)	Which group of citizens is most likely to have a specific type of contract?
 4)	How long have people who are likely to churn been using the service?
 
-Portfolio Article: https://medium.com/p/b5dda19bc400/edit
+Portfolio Article: [https://medium.com/p/b5dda19bc400/edit](https://medium.com/@hopolang.tsufu/customer-churn-prediction-b5dda19bc400)
 
 Linkedin profile: https://www.linkedin.com/in/hopolang-ts-ufu-3a05a0179/
