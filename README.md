@@ -10,4 +10,5 @@ Below are some of the questions asked during the EDA.
 4)	How long have people who are likely to churn been using the service?
 
 Portfolio Article: https://medium.com/p/b5dda19bc400/edit
+
 Linkedin profile: https://www.linkedin.com/in/hopolang-ts-ufu-3a05a0179/
