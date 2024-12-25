@@ -30,7 +30,7 @@ Installation instructions and Usage Guide:
 
 - Install requred library packages for data manipulation, machine learning, and visualization.
 
-  pip install pandas numpy scikit-learn seaborn matplotlib.
+  pip install pandas numpy scikit-learn seaborn matplotlib etc.
 
 - Install any editor such as Jupyter notebook, Visual Studio code etc.
 
