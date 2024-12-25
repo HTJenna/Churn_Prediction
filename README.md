@@ -20,8 +20,10 @@ Jupyter Notebook: For interactive coding (optional)
 
 Installation instructions and Usage Guide
 -Install Python (preferably version 3.7 or later) can be downloaded from python.org. 
--Install requred library packages for data manipulation, machine learning, and visualization. 
+
+-Install requred library packages for data manipulation, machine learning, and visualization.
 pip install pandas numpy scikit-learn seaborn matplotlib.
+
 - Install any editor such as Jupyter notebook, Visual Studio code etc.
 
 Portfolio Article: [https://medium.com/p/b5dda19bc400/edit](https://medium.com/@hopolang.tsufu/customer-churn-prediction-b5dda19bc400)
