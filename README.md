@@ -12,13 +12,19 @@ Below are some of the questions asked during the EDA.
 In this prediction the accuracy, recall, precision ans F1-Score flactuates as the dataset is very small and due to class inbalance.
 
 Libraries used :
+
 Scikit-learn - Utilized for machine learning tasks.
+
 matplotlib - used for creating static, interactive, and animated visualizations
+
 Seaborn - library for creating visually appealing and informative statistical graphics.
+
 python libraries(Pandas,Numpy) - Leveraged for data manipulation and various other tasks.
+
 Jupyter Notebook: For interactive coding (optional)
 
-Installation instructions and Usage Guide
+Installation instructions and Usage Guide:
+
 -Install Python (preferably version 3.7 or later) can be downloaded from python.org. 
 
 -Install requred library packages for data manipulation, machine learning, and visualization.
