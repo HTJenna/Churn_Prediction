@@ -13,15 +13,15 @@ In this prediction the accuracy, recall, precision ans F1-Score flactuates as th
 
 Libraries used :
 
-Scikit-learn - Utilized for machine learning tasks.
+- Scikit-learn - Utilized for machine learning tasks.
 
-matplotlib - used for creating static, interactive, and animated visualizations
+- matplotlib - used for creating static, interactive, and animated visualizations
 
-Seaborn - library for creating visually appealing and informative statistical graphics.
+- Seaborn - library for creating visually appealing and informative statistical graphics.
 
-python libraries(Pandas,Numpy) - Leveraged for data manipulation and various other tasks.
+- python libraries(Pandas,Numpy) - Leveraged for data manipulation and various other tasks.
 
-Jupyter Notebook: For interactive coding (optional)
+- Jupyter Notebook: For interactive coding (optional)
 
 
 Installation instructions and Usage Guide:
